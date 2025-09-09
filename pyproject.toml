@@ -7,5 +7,6 @@ requires-python = ">=3.12, <3.13"
 dependencies = [
     "grpcio>=1.74.0",
     "grpcio-tools>=1.74.0",
+    "httpx>=0.28.1",
     "websockets>=15.0.1",
 ]
