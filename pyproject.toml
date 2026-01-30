@@ -8,6 +8,7 @@ dependencies = [
     "grpcio>=1.74.0",
     "grpcio-tools>=1.74.0",
     "httpx>=0.28.1",
+    "jsonschema>=4.26.0",
     "pydantic[email]>=2.12.5",
     "websockets>=15.0.1",
 ]
